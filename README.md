@@ -23,7 +23,7 @@
 
 ## 🚀 デモ
 
-👉 [アプリを使ってみる](https://kk-ed-tech.github.io/circumference-angle-app/)  
+👉 [アプリを使ってみる](https://kk-edu-tech.github.io/inscribed-angle-theorem/)
 👉 [Notion 解説ページ](https://raspy-store-96c.notion.site/24288083f5268095a827da09d4e2e204)
 
 ---
