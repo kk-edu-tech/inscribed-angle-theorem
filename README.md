@@ -53,7 +53,7 @@
 
 ## 🙋‍♂️ 作者
 
-- **名前**：kozuma kensuke  
+- **名前**：kk-ed-tech  
 - **職業**：中学校数学教員  
 - **ポートフォリオ**：[Notionページ](https://raspy-store-96c.notion.site/...)  
 - **GitHub**：[kk-edu-tech](https://github.com/kk-edu-tech)
